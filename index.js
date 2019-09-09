@@ -7,3 +7,4 @@ var bBooyz = {
     beautyLevel:10,
     smashBrosTalent:10,
 }
+prompt("what's the password?")//fixed it ya donkey
